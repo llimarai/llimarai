@@ -1,17 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E6E6E&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58D3F7&height=140&section=header"/>
   
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="file:///C:/Users/maria/Downloads/image-removebg-preview%20(1).png" />
-&nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Raí+Lima!;Be+Welcome!+%20)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=72418c&text=Hi,%20I'm%20Raí%20Lima&section=footer&fontColor=81DAF5&fontSize=50&textBg=false&reversal=false"/>
 
-  
-<!-- Presentation -->
-<p>
+ <h2 align="left"></h2>
   Hi 👋, I'm Raí! student from Brazil.
   <h2 align="left"></h2>
 
-   <h2 align="left"> Me Contateme</h2>
+   <h2 align="left"> My contacts</h2>
   
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
@@ -49,17 +45,17 @@
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesyavl&theme=react&hide_border=false)<br/>  
    <h2 align="center"> </h2>
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llimarai&show_icons=true&count_private=true&hide_border=true&title_color=6E6E6E&icon_color=6E6E6E&text_color=6E6E6E&bg_color=0d1117" alt="ticia-lins github stats" /> 
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llimarai&show_icons=true&count_private=true&hide_border=true&title_color=58FAF4&icon_color=58FAF4&text_color=FFFFFF&bg_color=2E2E2E" alt="ticia-lins github stats" /> 
   
 
   <h2 align="left"> </h2>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llimarai&bg_color=424242&color=BDBDBD&line=000000&point=FFFFFFc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llimarai&bg_color=4=2E2E2E&color=58D3F7&line=58D3F7&point=58D3F7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=llimarai&theme=dracula&" />
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E6E6E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58D3F7&height=120&section=footer"/>
 <br clear="both">
 
 
